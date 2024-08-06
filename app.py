@@ -26,7 +26,7 @@ SOCIAL_MEDIA = {
     "Medium": "https://medium.com/@felipegabriel.mecanica",
 }
 PROJECTS = {
-    "🏆 Recommendation System Dashboard - Anime recommendation using MAL's users database": "https://youtu.be/Sb0A9i6d320",
+    "🏆 Recommendation System Dashboard - Anime recommendation using MAL's users database": "https://www.youtube.com/watch?v=TkTl5d38XI0&t",
     "🏆 Real Estate Tracker - Web app with MongoDB database": "https://real-state-floripa.streamlit.app/",
     "🏆 Stock Portfolio - Stocks selection using MF and analytics to combine Python & Excel": " ",
 }
