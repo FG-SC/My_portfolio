@@ -33,7 +33,7 @@ PROJECTS = {
 
 
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
-st.theme("dark")
+#st.theme("dark")
 
 
 # --- LOAD CSS, PDF & PROFIL PIC ---
